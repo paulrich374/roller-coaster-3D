@@ -1,5 +1,6 @@
 AUTHOR/E-MAIL: Wei-Hung Liu, weihungl@usc.edu
 
+![alt tag](https://raw.githubusercontent.com/weihungliu/roller-coaster-3D/master/animation_jpeg_files/030.jpg)
 
 INSTALL:
 --------------------------------
